@@ -1,0 +1,5 @@
+# What is this folder?
+This is where you can put your backups for games.
+
+# Why do we need to make a backup?
+To prevent data loss.
